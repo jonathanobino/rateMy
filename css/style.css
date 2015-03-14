@@ -187,7 +187,6 @@ p small{
 .customer-list{
 	list-style: none;
 	max-height: 200px;
-	min-height: 200px;
 	overflow: scroll;
 	list-style-position: none;
 	padding-left: 0;
